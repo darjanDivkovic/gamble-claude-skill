@@ -14,6 +14,11 @@ Bonus feature: ask Claude to flip a coin and it will. Heads or tails. No quantum
 npx skills add https://github.com/darjanDivkovic/gamble-claude-skill --skill gamble
 ```
 
+Run with:
+```
+/gamble
+```
+
 First time using skills? Run this once in your project:
 
 ```bash
