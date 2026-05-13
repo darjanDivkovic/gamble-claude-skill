@@ -1,6 +1,5 @@
 # 🎲 Gamble — a Claude Code skill
-
-<img width="775" height="851" alt="Screenshot_2" src="https://github.com/user-attachments/assets/79ec2aca-936d-47e5-8365-ae44d047224b" />
+<img width="212" height="51" alt="Screenshot_3" src="https://github.com/user-attachments/assets/0e026f3a-4335-43bf-823e-34b26af0e61d" />
 
 Tired of *thinking*? Tired of *deciding*? Tired of having *opinions*?
 
