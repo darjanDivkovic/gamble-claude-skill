@@ -2,8 +2,6 @@
 
 <img width="775" height="851" alt="Screenshot_2" src="https://github.com/user-attachments/assets/79ec2aca-936d-47e5-8365-ae44d047224b" />
 
-> Vibe coding, but make it degenerate.
-
 Tired of *thinking*? Tired of *deciding*? Tired of having *opinions*?
 
 The **Gamble** skill turns every Claude question into a slot machine. Every time Claude asks you something, a shiny 🎲 Gamble option appears — pick it and Claude randomly chooses one of its own answers for you.
